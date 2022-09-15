@@ -1,0 +1,10 @@
+﻿,Respond YES,Respond NO,,,
+Signal Present,Hit,Miss,,,
+Signal Absent,False Alarm,Correct Rejection,,,
+,,,,,
+,Respond Yes,Respond No,,,
+Signal Present,43,9,,Proportion hit,0.826923077
+Signal Absent,31,17,,proportion of false alarm,0.645833333
+,,,,,
+,,,,d- prime =z(prop hit)-z(prop fa),0.567980365
+,,,criteria,c= -z(prop hit)+z( prop fa)/2,-0.75502807
